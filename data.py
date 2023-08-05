@@ -57,7 +57,6 @@ houses = {
         "background_URL" : "https://diwanliwe.github.io/sparkles_api/alterok.png",
         "content_url" : "https://twitter.com/FarzaTV/status/1686811120466862080"
       },
-    },
   },
   "erevald" : {
     "live" :{
