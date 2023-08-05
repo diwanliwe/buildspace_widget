@@ -1,7 +1,6 @@
 #Here we store all the data
 
-houses = 
-{ 
+houses = { 
   "gaudmire" : {
       "house"  : {
         "widget_type":"cta",
