@@ -13,7 +13,7 @@ async def root():
 
 @app.get("/gaudmire")
 async def gaudmire():
-    return {houses["gaudmire"]["live"]}
+    return {"data": houses["gaudmire"]["live"]}
 
 @app.get("/items/{item_id}")
 def read_item(item_id: int, q: Optional[str] = None):
