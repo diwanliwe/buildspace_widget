@@ -25,7 +25,7 @@ houses = {
         "quoteSpacer": 25,
         "alignBottom" : 100,
         "quoteSize": 14,
-        "background_URL" : "https://diwanliwe.github.io/sparkles_api/mountain.png",
+        "background_URL" : "https://diwanliwe.github.io/sparkles_api/sf.png",
         "logo_URL" : "https://diwanliwe.github.io/sparkles_api/bslogo.png",
         "content_url" : "https://twitter.com/FarzaTV/status/1678561092308705281"
     },
@@ -43,7 +43,7 @@ houses = {
         "quoteSpacer": 25,
         "alignBottom" : 100,
         "quoteSize": 14,
-        "background_URL" : "https://diwanliwe.github.io/sparkles_api/mountain.png",
+        "background_URL" : "https://diwanliwe.github.io/sparkles_api/sf.png",
         "logo_URL" : "https://diwanliwe.github.io/sparkles_api/bslogo.png",
         "content_url" : "https://twitter.com/FarzaTV/status/1678561092308705281"
     },
@@ -71,7 +71,7 @@ houses = {
         "quoteSpacer": 25,
         "alignBottom" : 100,
         "quoteSize": 14,
-        "background_URL" : "https://diwanliwe.github.io/sparkles_api/mountain.png",
+        "background_URL" : "https://diwanliwe.github.io/sparkles_api/sf.png",
         "logo_URL" : "https://diwanliwe.github.io/sparkles_api/bslogo.png",
         "content_url" : "https://twitter.com/FarzaTV/status/1678561092308705281"
     },
@@ -99,7 +99,7 @@ houses = {
         "quoteSpacer": 25,
         "alignBottom" : 100,
         "quoteSize": 14,
-        "background_URL" : "https://diwanliwe.github.io/sparkles_api/mountain.png",
+        "background_URL" : "https://diwanliwe.github.io/sparkles_api/sf.png",
         "logo_URL" : "https://diwanliwe.github.io/sparkles_api/bslogo.png",
         "content_url" : "https://twitter.com/FarzaTV/status/1678561092308705281"
     },
