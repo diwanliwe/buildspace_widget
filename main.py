@@ -25,7 +25,7 @@ async def spectreseek():
 
 @app.get("/erevald")
 async def ereval():
-    return {"data": houses["ereval"]["live"]}
+    return {"data": houses["erevald"]["live"]}
 
 @app.get("/items/{item_id}")
 def read_item(item_id: int, q: Optional[str] = None):
