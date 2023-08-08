@@ -18,16 +18,16 @@ houses = {
         "author_username" : "farza",
         "author_ppURL" : "https://diwanliwe.github.io/sparkles_api/farza.png",
         "context" : "today", 
-        "quote_text" : "ask yourself if you’re just procrastinating or if this will legit get you to your goal",
+        "quote_text" : "ideas are forged, not found.",
         "footer" : "#bsfundamentals",
         "nameSpacer" : 6,
         "contextSpacer" : 4,
         "quoteSpacer": 25,
         "alignBottom" : 100,
         "quoteSize": 14,
-        "background_URL" : "https://diwanliwe.github.io/sparkles_api/sf.png",
+        "background_URL" : "https://diwanliwe.github.io/sparkles_api/mountain.png",
         "logo_URL" : "https://diwanliwe.github.io/sparkles_api/bslogo.png",
-        "content_url" : "https://twitter.com/FarzaTV/status/1678561092308705281"
+        "content_url" : "https://twitter.com/FarzaTV/status/1188297933587963904"
     },
   },
   "alterok" : {
@@ -36,16 +36,16 @@ houses = {
         "author_username" : "farza",
         "author_ppURL" : "https://diwanliwe.github.io/sparkles_api/farza.png",
         "context" : "today", 
-        "quote_text" : "ask yourself if you’re just procrastinating or if this will legit get you to your goal",
+        "quote_text" : "ideas are forged, not found.",
         "footer" : "#bsfundamentals",
         "nameSpacer" : 6,
         "contextSpacer" : 4,
         "quoteSpacer": 25,
         "alignBottom" : 100,
         "quoteSize": 14,
-        "background_URL" : "https://diwanliwe.github.io/sparkles_api/sf.png",
+        "background_URL" : "https://diwanliwe.github.io/sparkles_api/mountain.png",
         "logo_URL" : "https://diwanliwe.github.io/sparkles_api/bslogo.png",
-        "content_url" : "https://twitter.com/FarzaTV/status/1678561092308705281"
+        "content_url" : "https://twitter.com/FarzaTV/status/1188297933587963904"
     },
       "house"  : {
         "widget_type":"CTA",
@@ -64,16 +64,16 @@ houses = {
         "author_username" : "farza",
         "author_ppURL" : "https://diwanliwe.github.io/sparkles_api/farza.png",
         "context" : "today", 
-        "quote_text" : "ask yourself if you’re just procrastinating or if this will legit get you to your goal",
+        "quote_text" : "ideas are forged, not found.",
         "footer" : "#bsfundamentals",
         "nameSpacer" : 6,
         "contextSpacer" : 4,
         "quoteSpacer": 25,
         "alignBottom" : 100,
         "quoteSize": 14,
-        "background_URL" : "https://diwanliwe.github.io/sparkles_api/sf.png",
+        "background_URL" : "https://diwanliwe.github.io/sparkles_api/mountain.png",
         "logo_URL" : "https://diwanliwe.github.io/sparkles_api/bslogo.png",
-        "content_url" : "https://twitter.com/FarzaTV/status/1678561092308705281"
+        "content_url" : "https://twitter.com/FarzaTV/status/1188297933587963904"
     },
       "house"  : {
         "widget_type":"CTA",
@@ -92,16 +92,16 @@ houses = {
         "author_username" : "farza",
         "author_ppURL" : "https://diwanliwe.github.io/sparkles_api/farza.png",
         "context" : "today", 
-        "quote_text" : "ask yourself if you’re just procrastinating or if this will legit get you to your goal",
+        "quote_text" : "ideas are forged, not found. figuring out never end",
         "footer" : "#bsfundamentals",
         "nameSpacer" : 6,
         "contextSpacer" : 4,
         "quoteSpacer": 25,
         "alignBottom" : 100,
         "quoteSize": 14,
-        "background_URL" : "https://diwanliwe.github.io/sparkles_api/sf.png",
+        "background_URL" : "https://diwanliwe.github.io/sparkles_api/mountain.png",
         "logo_URL" : "https://diwanliwe.github.io/sparkles_api/bslogo.png",
-        "content_url" : "https://twitter.com/FarzaTV/status/1678561092308705281"
+        "content_url" : "https://twitter.com/FarzaTV/status/1188297933587963904"
     },
       "house"  : {
         "widget_type":"CTA",
